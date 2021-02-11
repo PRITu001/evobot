@@ -104,3 +104,17 @@ Examples: `1` or `1,2,3`
 
 [PRITu-py](https://discord.gg/NDTF62A)
 [PRITu001](https://discord.gg/NDTF62A)
+
+### 📝 Discord/Support Servers,
+
+> Developement Server,
+
+<a href="https://discord.gg/cmHm2bpfMR"><img src="https://invidget.switchblade.xyz/cmHm2bpfMR"/></a>
+<br><br>
+</div>
+
+> Chill Server,
+
+<a href="https://discord.gg/2kWssuKhyY"><img src="https://invidget.switchblade.xyz/2kWssuKhyY"/></a>
+<br><br>
+</div>
